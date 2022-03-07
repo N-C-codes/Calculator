@@ -1,6 +1,6 @@
 import unittest
 
-from SimpleCalcRefactor import Calculator
+from SimpleCalculator import Calculator
 
 class CalculatorTest(unittest.TestCase):
 
